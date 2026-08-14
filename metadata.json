@@ -1,0 +1,6 @@
+{
+  "name": "Mumbai Metro",
+  "description": "A unified multilingual transit operating system for Mumbai's entire metro ecosystem, featuring journey planning, real-time tracking, digital ticketing, and custom accessibility modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
